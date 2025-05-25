@@ -2,6 +2,7 @@
 - logging thought process & results
 
 Sample Response after basic testing:
+
 Hello Hugging Face
 You: what is a book
 Chatbot: 
